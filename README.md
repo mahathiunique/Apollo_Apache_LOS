@@ -1,4 +1,4 @@
-# 🏥 ICU AI Prediction System
+# 🏥 ICU AI Prediction System 
 
 An Explainable AI-driven ICU Length of Stay (LOS) Prediction System developed using APACHE-style physiological variables, Extreme Gradient Boosting (XGBoost), SHAP Explainability, and Streamlit-based clinical visualization.
 
